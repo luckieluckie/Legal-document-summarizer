@@ -1,0 +1,45 @@
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement ("Agreement") is entered into as of September 24, 2025, by and between Alpha Technologies ("Provider") and Beta Enterprises ("Client").
+
+1. SCOPE OF SERVICES
+The Provider agrees to deliver software development, maintenance, and consulting services to the Client, including:
+   a. Web and mobile application design and development.
+   b. Deployment, configuration, and integration with third-party systems.
+   c. Ongoing technical support, bug fixes, and updates.
+   d. Optional consulting sessions for workflow optimization.
+
+2. PROJECT TIMELINES
+The Provider shall deliver all services according to the mutually agreed project milestones. Delays due to unforeseen circumstances shall be communicated in writing within 5 business days.
+
+3. PAYMENT TERMS
+   a. The Client agrees to pay the Provider a monthly retainer of $5,000.
+   b. Additional services outside the scope will be billed at $150/hour.
+   c. Invoices are due within 30 days of receipt.
+
+4. CONFIDENTIALITY AND DATA PROTECTION
+   a. Both parties shall maintain confidentiality of proprietary or sensitive information.
+   b. The Provider shall comply with all applicable data protection laws, including GDPR where applicable.
+   c. Breach of confidentiality may result in termination and legal action.
+
+5. INTELLECTUAL PROPERTY
+   a. All work products, code, and documentation created by the Provider shall remain the intellectual property of the Client upon full payment.
+   b. The Provider retains the right to reuse non-client-specific code components for other projects.
+
+6. WARRANTIES AND LIABILITY
+   a. The Provider warrants that services will be performed with reasonable skill and care.
+   b. Except for gross negligence or willful misconduct, the Provider’s liability is limited to the total fees paid under this Agreement.
+
+7. TERM AND TERMINATION
+   a. This Agreement shall remain in effect for one year from the effective date unless terminated earlier.
+   b. Either party may terminate with thirty (30) days written notice.
+   c. Upon termination, all Client data and materials will be returned or securely destroyed.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+   a. This Agreement shall be governed by the laws of the State of California.
+   b. Any disputes shall first be attempted to resolve via mediation; if unresolved, disputes will be settled in the courts of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Alpha Technologies      Beta Enterprises
+[Signature]             [Signature]

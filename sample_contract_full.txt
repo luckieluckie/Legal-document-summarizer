@@ -1,0 +1,79 @@
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement ("Agreement") is entered into as of September 24, 2025, by and between Alpha Technologies ("Provider") and Beta Enterprises ("Client"). The parties agree to the following terms and conditions regarding the provision of software development, maintenance, and consulting services.
+
+1. SCOPE OF SERVICES
+The Provider shall deliver comprehensive services to the Client, including but not limited to:
+   a. Web and mobile application design and development, following industry standards and best practices.
+   b. Deployment, integration, and configuration of software systems, including third-party APIs and legacy systems.
+   c. Ongoing technical support, bug fixing, and software updates during the term of this Agreement.
+   d. Consulting for workflow optimization, process improvement, and technology adoption.
+   e. Optional training sessions for the Client's internal staff on software usage and best practices.
+
+2. PROJECT MANAGEMENT
+The Provider shall appoint a dedicated project manager to oversee the progress of all services. Weekly progress reports shall be submitted to the Client detailing milestones achieved, pending tasks, and any risks or issues encountered.
+
+3. TIMELINES AND DELIVERABLES
+   a. The Provider agrees to adhere to project timelines and deliverables as mutually agreed upon in the project plan.
+   b. Any delays due to unforeseen circumstances such as natural disasters, strikes, or system outages shall be communicated within five (5) business days.
+   c. If the Client requests changes or additions beyond the original scope, the Provider shall provide a revised timeline and estimate for approval.
+
+4. PAYMENT TERMS
+   a. The Client agrees to pay the Provider a monthly retainer of $5,000 for ongoing services.
+   b. Additional services requested outside the original scope shall be billed at a rate of $150 per hour.
+   c. Invoices will be issued monthly and are payable within thirty (30) days from the invoice date.
+   d. Late payments may incur a 2% interest charge per month on outstanding balances.
+
+5. CONFIDENTIALITY AND DATA PROTECTION
+   a. Both parties shall maintain strict confidentiality regarding any proprietary or sensitive information exchanged during the term of this Agreement.
+   b. The Provider shall implement industry-standard data protection measures, including encryption and secure storage.
+   c. The Provider shall comply with applicable data protection regulations, including GDPR where applicable.
+   d. Any breach of confidentiality may result in immediate termination of this Agreement and potential legal action.
+
+6. INTELLECTUAL PROPERTY RIGHTS
+   a. All work products, source code, and documentation created by the Provider specifically for the Client shall become the intellectual property of the Client upon full payment.
+   b. The Provider retains the right to reuse non-client-specific code, frameworks, libraries, or methodologies for other projects.
+   c. The Client grants the Provider a limited, non-exclusive license to use any necessary Client-provided materials solely for performing the services outlined in this Agreement.
+
+7. WARRANTIES AND REPRESENTATIONS
+   a. The Provider warrants that services will be performed in a professional and workmanlike manner, consistent with industry standards.
+   b. The Provider does not warrant uninterrupted or error-free operation of software, but will correct defects in a timely manner.
+   c. Except for gross negligence or willful misconduct, the Provider’s liability under this Agreement is limited to the total fees paid by the Client.
+
+8. TERM AND TERMINATION
+   a. This Agreement shall commence on the effective date and continue for one year unless terminated earlier.
+   b. Either party may terminate with thirty (30) days written notice.
+   c. Upon termination, the Provider shall return all Client data and materials or securely destroy them at the Client’s direction.
+   d. Termination shall not relieve the Client of its obligation to pay for services rendered prior to termination.
+
+9. DISPUTE RESOLUTION
+   a. The parties agree to resolve disputes through good faith negotiation.
+   b. If negotiation fails, disputes shall first be submitted to mediation with a neutral third-party mediator.
+   c. If mediation is unsuccessful, disputes will be resolved in the courts of California, which shall have exclusive jurisdiction.
+
+10. FORCE MAJEURE
+Neither party shall be held liable for delays or failure to perform caused by events beyond their reasonable control, including natural disasters, war, strikes, or government actions. Each party shall notify the other promptly upon occurrence of such events.
+
+11. INDEMNIFICATION
+   a. The Provider shall indemnify and hold harmless the Client against claims, damages, or losses arising from Provider’s gross negligence or willful misconduct.
+   b. The Client shall indemnify and hold harmless the Provider against claims, damages, or losses resulting from Client-provided materials or instructions that violate third-party rights.
+
+12. INSURANCE
+The Provider shall maintain professional liability insurance covering errors, omissions, and negligence related to services performed under this Agreement. Proof of insurance shall be provided upon request.
+
+13. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+14. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties, superseding all prior agreements or understandings, whether written or oral. Any amendments must be in writing and signed by both parties.
+
+15. NOTICES
+All notices under this Agreement shall be in writing and delivered by email, certified mail, or courier to the addresses specified by the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Alpha Technologies       Beta Enterprises
+[Signature]              [Signature]
+[Date]                   [Date]
+
+python legal_summarizer.py -f sample_contract_full.txt

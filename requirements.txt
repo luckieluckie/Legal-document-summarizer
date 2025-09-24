@@ -1,0 +1,5 @@
+transformers
+torch
+nltk
+sentence-transformers
+huggingface_hub
