@@ -8,7 +8,9 @@ This project summarizes legal contracts using Python and Hugging Face transforme
 
 ```bash
 pip install -r requirements.txt
+```
 
-**2. Run command to get summary:**
+2. Run command to get summary:
 
+```bash
 python legal_summarizer.py -f sample_contract_full.txt
