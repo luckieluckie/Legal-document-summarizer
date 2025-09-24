@@ -76,4 +76,3 @@ Alpha Technologies       Beta Enterprises
 [Signature]              [Signature]
 [Date]                   [Date]
 
-python legal_summarizer.py -f sample_contract_full.txt
